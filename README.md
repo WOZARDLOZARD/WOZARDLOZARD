@@ -22,7 +22,10 @@
 <br>
 
 ## My projects
-[Gradient – The one Discord bot to do it all.](https://sites.google.com/view/gradient-discord/home)
+* [Gradient – The one Discord bot to do it all.](https://sites.google.com/view/gradient-discord/home)
+* [Capture the flag – A Processing game](https://github.com/WOZARDLOZARD/capture-the-flag)
+* [Pong – A Processing game](https://github.com/WOZARDLOZARD/pong)
+* [Odyssey battle – A turn-based Java game](https://github.com/WOZARDLOZARD/odyssey-battle)
 
 ## Connect with me
 <img align="left" alt="WozardLozard#1413 | Discord" width="26px" src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" />
